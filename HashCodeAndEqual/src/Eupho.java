@@ -25,7 +25,8 @@ public class Eupho {
     }
 
     @Override
-    public boolean equals(Object obj){
+    public boolean equals(Object obj)
+    {
         if(obj==null)
         {
             return false;
